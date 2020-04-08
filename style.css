@@ -18,8 +18,8 @@
   display: flex;
   justify-content: center; 
   text-align: center; 
-  margin-left: 14%;  
-  margin-right: 14%; 
+  margin-left: 7%;  
+  margin-right: 7%; 
   padding-top: 2%; 
   background-color: #e6e6e6; 
   font-family: 'Inter', sans-serif;
@@ -66,8 +66,8 @@
 
 a {
   background-color: #899c98; 
-  padding-left: 150px; 
-  padding-right: 150px; 
+  padding-left: 7%; 
+  padding-right: 7%; 
   padding-top: 10px; 
   padding-bottom: 10px; 
   border: 1px solid white; 
@@ -79,8 +79,8 @@ a {
 
 a:hover {
   background-color: #99bab3; 
-  padding-left: 150px; 
-  padding-right: 150px; 
+  padding-left: 7%; 
+  padding-right: 7%; 
   padding-top: 10px; 
   padding-bottom: 10px; 
   border: 1px solid white; 
