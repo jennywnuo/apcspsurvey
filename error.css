@@ -1,0 +1,52 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box; 
+}
+
+body {
+ background-color: #e6e8e8; 
+}
+
+.errormessage {
+  display: block; 
+  justify-content: center; 
+  text-align: center; 
+  background-color: white;
+  font-family: 'Inter', sans-serif;
+  margin-top: 10%; 
+  margin-left:20%; 
+  margin-right: 20%; 
+  padding: 10%;
+  padding-top: 3%; 
+}
+
+
+a {
+  background-color: #899c98; 
+  padding-left: 150px; 
+  padding-right: 150px; 
+  padding-top: 10px; 
+  padding-bottom: 10px; 
+  border: 1px solid white; 
+  text-decoration: none; 
+  font-family: 'Inter', sans-serif;
+  color: white;
+
+}
+
+a:hover {
+  background-color: #99bab3; 
+  padding-left: 150px; 
+  padding-right: 150px; 
+  padding-top: 10px; 
+  padding-bottom: 10px; 
+  border: 1px solid white; 
+  text-decoration: none; 
+  font-family: 'Inter', sans-serif;
+  color: white;
+
+}
+
+
+

@@ -1,0 +1,102 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box; 
+}
+
+.first {
+  background-color: #fccad5; 
+  font-family: 'Coiny', cursive;
+  text-align: center; 
+  padding-bottom: 4%;
+  display: flex;
+  justify-content: center; 
+}
+
+h1 {
+  font-size: 300%; 
+}
+
+.between {
+  background-color: #e3c5e8; 
+  text-align:center;
+  font-family: 'Coiny', cursive;
+}
+.second {
+  background-color: #e3c5e8; 
+  text-align: center;
+  display: flex;
+  justify-content: center;  
+  padding-top: 6%;
+  padding-bottom: 3%; 
+}
+
+.box {
+  background-color: #c386db; 
+  height: 450px;
+  width: 650px;
+  transform: translate(55%,0%);
+
+}
+
+.group-pic{
+  height: 450px; 
+  width: 650px;
+  object-fit: cover; 
+  transform: translate(-50%,-10%);
+  border: 2.5px solid #c386db; 
+
+}
+
+.third {
+  background-color: #abd5de; 
+  text-align: center; 
+  height: auto; 
+  font-family: 'Coiny', cursive;
+  padding-top:4%; 
+  padding-bottom: 4%; 
+}
+
+
+
+.balloons { 
+  border: 35px solid rgba(255,0,0,0); 
+}
+
+.theresume {
+  width: 600px;
+  object-fit:cover;
+  border: 10px solid white; 
+}
+
+
+a {
+  background-color: #de7893; 
+  padding-left: 150px; 
+  padding-right: 150px; 
+  padding-top: 13px; 
+  padding-bottom: 13px; 
+  border: 1px solid white; 
+  text-decoration: none; 
+  font-family: 'Coiny', cursive;
+  color: white;
+  border-radius: 5px; 
+
+}
+
+a:hover {
+  background-color: #faaabf; 
+  padding-left: 150px; 
+  padding-right: 150px; 
+  padding-top: 13px; 
+  padding-bottom: 13px; 
+  border: 1px solid white; 
+  text-decoration: none; 
+  font-family: 'Coiny', cursive;
+  color: white;
+  border-radius:5px; 
+
+}
+
+
+
