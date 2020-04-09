@@ -63,7 +63,8 @@ h1 {
 }
 
 .theresume {
-  width: 165px;
+  width: 170px;
+  height: 60px; 
   object-fit:cover;
   border: 10px solid white; 
 }
