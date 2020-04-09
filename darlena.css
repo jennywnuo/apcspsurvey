@@ -41,7 +41,8 @@ h1 {
 
 .group-pic{
 
-  width: 600px;
+  width: 170px;
+  height: 100px; 
   object-fit: cover; 
   border: 10px solid #c386db; 
 
@@ -63,7 +64,7 @@ h1 {
 }
 
 .theresume {
-  width: 600px;
+  width: 170px;
   object-fit:cover;
   border: 10px solid white; 
 }
