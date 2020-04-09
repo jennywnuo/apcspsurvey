@@ -42,6 +42,7 @@ h1 {
 .group-pic{
 
   width: 165px;
+  height: 60px; 
   object-fit: cover; 
   border: 10px solid #c386db; 
 
